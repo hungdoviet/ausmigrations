@@ -1,0 +1,211 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" fill="none">
+  <style>
+    .dot { fill: #2E8B57; }
+    .dot-light { fill: #5BBB7A; }
+  </style>
+  <!-- Australia dot map -->
+  <g transform="translate(0, -4)">
+    <!-- Row 1 - Top (Northern Territory/Queensland top) -->
+    <circle class="dot" cx="45" cy="8" r="2.5"/>
+    <circle class="dot" cx="53" cy="8" r="2.5"/>
+    <circle class="dot" cx="61" cy="8" r="2.5"/>
+    <circle class="dot" cx="69" cy="8" r="2.5"/>
+    <circle class="dot" cx="77" cy="8" r="2.5"/>
+    
+    <!-- Row 2 -->
+    <circle class="dot" cx="37" cy="16" r="2.5"/>
+    <circle class="dot" cx="45" cy="16" r="2.5"/>
+    <circle class="dot" cx="53" cy="16" r="2.5"/>
+    <circle class="dot" cx="61" cy="16" r="2.5"/>
+    <circle class="dot" cx="69" cy="16" r="2.5"/>
+    <circle class="dot" cx="77" cy="16" r="2.5"/>
+    <circle class="dot" cx="85" cy="16" r="2.5"/>
+    <circle class="dot" cx="105" cy="16" r="2.5"/>
+    <circle class="dot" cx="113" cy="16" r="2.5"/>
+
+    <!-- Row 3 -->
+    <circle class="dot" cx="29" cy="24" r="2.5"/>
+    <circle class="dot" cx="37" cy="24" r="2.5"/>
+    <circle class="dot" cx="45" cy="24" r="2.5"/>
+    <circle class="dot" cx="53" cy="24" r="2.5"/>
+    <circle class="dot" cx="61" cy="24" r="2.5"/>
+    <circle class="dot" cx="69" cy="24" r="2.5"/>
+    <circle class="dot" cx="77" cy="24" r="2.5"/>
+    <circle class="dot" cx="85" cy="24" r="2.5"/>
+    <circle class="dot" cx="93" cy="24" r="2.5"/>
+    <circle class="dot" cx="101" cy="24" r="2.5"/>
+    <circle class="dot" cx="109" cy="24" r="2.5"/>
+    <circle class="dot" cx="117" cy="24" r="2.5"/>
+    <circle class="dot" cx="125" cy="24" r="2.5"/>
+
+    <!-- Row 4 -->
+    <circle class="dot" cx="21" cy="32" r="2.5"/>
+    <circle class="dot" cx="29" cy="32" r="2.5"/>
+    <circle class="dot" cx="37" cy="32" r="2.5"/>
+    <circle class="dot" cx="45" cy="32" r="2.5"/>
+    <circle class="dot" cx="53" cy="32" r="2.5"/>
+    <circle class="dot" cx="61" cy="32" r="2.5"/>
+    <circle class="dot" cx="69" cy="32" r="2.5"/>
+    <circle class="dot" cx="77" cy="32" r="2.5"/>
+    <circle class="dot" cx="85" cy="32" r="2.5"/>
+    <circle class="dot" cx="93" cy="32" r="2.5"/>
+    <circle class="dot" cx="101" cy="32" r="2.5"/>
+    <circle class="dot" cx="109" cy="32" r="2.5"/>
+    <circle class="dot" cx="117" cy="32" r="2.5"/>
+    <circle class="dot" cx="125" cy="32" r="2.5"/>
+
+    <!-- Row 5 -->
+    <circle class="dot-light" cx="13" cy="40" r="2.5"/>
+    <circle class="dot" cx="21" cy="40" r="2.5"/>
+    <circle class="dot" cx="29" cy="40" r="2.5"/>
+    <circle class="dot" cx="37" cy="40" r="2.5"/>
+    <circle class="dot" cx="45" cy="40" r="2.5"/>
+    <circle class="dot" cx="53" cy="40" r="2.5"/>
+    <circle class="dot" cx="61" cy="40" r="2.5"/>
+    <circle class="dot" cx="69" cy="40" r="2.5"/>
+    <circle class="dot" cx="77" cy="40" r="2.5"/>
+    <circle class="dot" cx="85" cy="40" r="2.5"/>
+    <circle class="dot" cx="93" cy="40" r="2.5"/>
+    <circle class="dot" cx="101" cy="40" r="2.5"/>
+    <circle class="dot" cx="109" cy="40" r="2.5"/>
+    <circle class="dot" cx="117" cy="40" r="2.5"/>
+    <circle class="dot" cx="125" cy="40" r="2.5"/>
+
+    <!-- Row 6 -->
+    <circle class="dot-light" cx="5" cy="48" r="2.5"/>
+    <circle class="dot-light" cx="13" cy="48" r="2.5"/>
+    <circle class="dot" cx="21" cy="48" r="2.5"/>
+    <circle class="dot" cx="29" cy="48" r="2.5"/>
+    <circle class="dot" cx="37" cy="48" r="2.5"/>
+    <circle class="dot" cx="45" cy="48" r="2.5"/>
+    <circle class="dot" cx="53" cy="48" r="2.5"/>
+    <circle class="dot" cx="61" cy="48" r="2.5"/>
+    <circle class="dot" cx="69" cy="48" r="2.5"/>
+    <circle class="dot" cx="77" cy="48" r="2.5"/>
+    <circle class="dot" cx="85" cy="48" r="2.5"/>
+    <circle class="dot" cx="93" cy="48" r="2.5"/>
+    <circle class="dot" cx="101" cy="48" r="2.5"/>
+    <circle class="dot" cx="109" cy="48" r="2.5"/>
+    <circle class="dot" cx="117" cy="48" r="2.5"/>
+    <circle class="dot" cx="125" cy="48" r="2.5"/>
+    <circle class="dot" cx="133" cy="48" r="2.5"/>
+
+    <!-- Row 7 -->
+    <circle class="dot-light" cx="5" cy="56" r="2.5"/>
+    <circle class="dot-light" cx="13" cy="56" r="2.5"/>
+    <circle class="dot" cx="21" cy="56" r="2.5"/>
+    <circle class="dot" cx="29" cy="56" r="2.5"/>
+    <circle class="dot" cx="37" cy="56" r="2.5"/>
+    <circle class="dot" cx="45" cy="56" r="2.5"/>
+    <circle class="dot" cx="53" cy="56" r="2.5"/>
+    <circle class="dot" cx="61" cy="56" r="2.5"/>
+    <circle class="dot" cx="69" cy="56" r="2.5"/>
+    <circle class="dot" cx="77" cy="56" r="2.5"/>
+    <circle class="dot" cx="85" cy="56" r="2.5"/>
+    <circle class="dot" cx="93" cy="56" r="2.5"/>
+    <circle class="dot" cx="101" cy="56" r="2.5"/>
+    <circle class="dot" cx="109" cy="56" r="2.5"/>
+    <circle class="dot" cx="117" cy="56" r="2.5"/>
+    <circle class="dot" cx="125" cy="56" r="2.5"/>
+    <circle class="dot" cx="133" cy="56" r="2.5"/>
+
+    <!-- Row 8 -->
+    <circle class="dot-light" cx="5" cy="64" r="2.5"/>
+    <circle class="dot" cx="13" cy="64" r="2.5"/>
+    <circle class="dot" cx="21" cy="64" r="2.5"/>
+    <circle class="dot" cx="29" cy="64" r="2.5"/>
+    <circle class="dot" cx="37" cy="64" r="2.5"/>
+    <circle class="dot" cx="45" cy="64" r="2.5"/>
+    <circle class="dot" cx="53" cy="64" r="2.5"/>
+    <circle class="dot" cx="61" cy="64" r="2.5"/>
+    <circle class="dot" cx="69" cy="64" r="2.5"/>
+    <circle class="dot" cx="77" cy="64" r="2.5"/>
+    <circle class="dot" cx="85" cy="64" r="2.5"/>
+    <circle class="dot" cx="93" cy="64" r="2.5"/>
+    <circle class="dot" cx="101" cy="64" r="2.5"/>
+    <circle class="dot" cx="109" cy="64" r="2.5"/>
+    <circle class="dot" cx="117" cy="64" r="2.5"/>
+    <circle class="dot" cx="125" cy="64" r="2.5"/>
+    <circle class="dot" cx="133" cy="64" r="2.5"/>
+
+    <!-- Row 9 -->
+    <circle class="dot" cx="13" cy="72" r="2.5"/>
+    <circle class="dot" cx="21" cy="72" r="2.5"/>
+    <circle class="dot" cx="29" cy="72" r="2.5"/>
+    <circle class="dot" cx="37" cy="72" r="2.5"/>
+    <circle class="dot" cx="45" cy="72" r="2.5"/>
+    <circle class="dot" cx="53" cy="72" r="2.5"/>
+    <circle class="dot" cx="61" cy="72" r="2.5"/>
+    <circle class="dot" cx="69" cy="72" r="2.5"/>
+    <circle class="dot" cx="77" cy="72" r="2.5"/>
+    <circle class="dot" cx="85" cy="72" r="2.5"/>
+    <circle class="dot" cx="93" cy="72" r="2.5"/>
+    <circle class="dot" cx="101" cy="72" r="2.5"/>
+    <circle class="dot" cx="109" cy="72" r="2.5"/>
+    <circle class="dot" cx="117" cy="72" r="2.5"/>
+    <circle class="dot" cx="125" cy="72" r="2.5"/>
+
+    <!-- Row 10 -->
+    <circle class="dot" cx="21" cy="80" r="2.5"/>
+    <circle class="dot" cx="29" cy="80" r="2.5"/>
+    <circle class="dot" cx="37" cy="80" r="2.5"/>
+    <circle class="dot" cx="45" cy="80" r="2.5"/>
+    <circle class="dot" cx="53" cy="80" r="2.5"/>
+    <circle class="dot" cx="61" cy="80" r="2.5"/>
+    <circle class="dot" cx="69" cy="80" r="2.5"/>
+    <circle class="dot" cx="77" cy="80" r="2.5"/>
+    <circle class="dot" cx="85" cy="80" r="2.5"/>
+    <circle class="dot" cx="93" cy="80" r="2.5"/>
+    <circle class="dot" cx="101" cy="80" r="2.5"/>
+    <circle class="dot" cx="109" cy="80" r="2.5"/>
+    <circle class="dot" cx="117" cy="80" r="2.5"/>
+    <circle class="dot" cx="125" cy="80" r="2.5"/>
+
+    <!-- Row 11 -->
+    <circle class="dot" cx="29" cy="88" r="2.5"/>
+    <circle class="dot" cx="37" cy="88" r="2.5"/>
+    <circle class="dot" cx="45" cy="88" r="2.5"/>
+    <circle class="dot" cx="53" cy="88" r="2.5"/>
+    <circle class="dot" cx="61" cy="88" r="2.5"/>
+    <circle class="dot" cx="69" cy="88" r="2.5"/>
+    <circle class="dot" cx="77" cy="88" r="2.5"/>
+    <circle class="dot" cx="85" cy="88" r="2.5"/>
+    <circle class="dot" cx="93" cy="88" r="2.5"/>
+    <circle class="dot" cx="101" cy="88" r="2.5"/>
+    <circle class="dot" cx="109" cy="88" r="2.5"/>
+    <circle class="dot" cx="117" cy="88" r="2.5"/>
+    <circle class="dot" cx="125" cy="88" r="2.5"/>
+
+    <!-- Row 12 -->
+    <circle class="dot" cx="37" cy="96" r="2.5"/>
+    <circle class="dot" cx="45" cy="96" r="2.5"/>
+    <circle class="dot" cx="53" cy="96" r="2.5"/>
+    <circle class="dot" cx="61" cy="96" r="2.5"/>
+    <circle class="dot" cx="69" cy="96" r="2.5"/>
+    <circle class="dot" cx="93" cy="96" r="2.5"/>
+    <circle class="dot" cx="101" cy="96" r="2.5"/>
+    <circle class="dot" cx="109" cy="96" r="2.5"/>
+    <circle class="dot" cx="117" cy="96" r="2.5"/>
+    <circle class="dot" cx="125" cy="96" r="2.5"/>
+
+    <!-- Row 13 - Southern -->
+    <circle class="dot" cx="53" cy="104" r="2.5"/>
+    <circle class="dot" cx="61" cy="104" r="2.5"/>
+    <circle class="dot" cx="93" cy="104" r="2.5"/>
+    <circle class="dot" cx="101" cy="104" r="2.5"/>
+    <circle class="dot" cx="109" cy="104" r="2.5"/>
+    <circle class="dot" cx="117" cy="104" r="2.5"/>
+
+    <!-- Row 14 -->
+    <circle class="dot" cx="93" cy="112" r="2.5"/>
+    <circle class="dot" cx="101" cy="112" r="2.5"/>
+    <circle class="dot" cx="109" cy="112" r="2.5"/>
+
+    <!-- Row 15 - Tasmania -->
+    <circle class="dot" cx="109" cy="124" r="2.5"/>
+    <circle class="dot" cx="117" cy="124" r="2.5"/>
+    <circle class="dot" cx="109" cy="132" r="2.5"/>
+    <circle class="dot" cx="117" cy="132" r="2.5"/>
+  </g>
+
+</svg>

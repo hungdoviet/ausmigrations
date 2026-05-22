@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ausmigrations.com.au/sitemap.xml
